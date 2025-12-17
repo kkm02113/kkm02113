@@ -1,37 +1,21 @@
-# 👦🏻자기소개서
----
-● 이름 = **김강민**
-
-● 소속 = **소프트웨어융합대학 / 전공 빅데이터 / 부전공 스마트 IOT** 
- 
-● Email = latrymos0@naver.com
-
-●Github 주소 = kkm02113.github.com
-
---------------------------------
-
-# 💻사용 가능한 언어
-● JAVA
-
-● Python
-
-● C/C++(Little bit)
-
-● html
-
-● 한국어
+# [본인 이름]
+**Backend Engineer specialized in Distributed Systems & Scalability**
 
 ---
 
+### 🚀 Focusing on
+* High-performance API design with **Go** and **gRPC**
+* Cloud-native infrastructure orchestration using **Kubernetes**
+* Solving complex problems through data-driven decision making
 
-# 주요 활동
-1. 2025 SW중심대학 디지털 경진대회 : AI부문
-2. SW 프롬프톤 참
-3. SCPC 본선 진출
-4. 유니티 프로젝트에 참가하여 게임개발
-5.
-6.
-.
-.
-.
+### 🛠 Tech Stack
+* **Languages:** Go, Rust, TypeScript, Python
+* **Infrastructure:** AWS, Docker, K8s, Terraform
+* **Databases:** PostgreSQL, Redis, MongoDB
+
+### 📝 Recent Technical Challenges
+* [프로젝트명]: Reduced latency by 40% through caching strategy optimization.
+* [프로젝트명]: Migrated monolithic architecture to microservices without downtime.
+
 ---
+> "Keep it simple, even if it's complex."
