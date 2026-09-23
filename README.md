@@ -1,65 +1,111 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pretendard&weight=600&size=28&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Engineering+Student+at+Hallym+Univ.;Building+AI+Solutions+%26+Cloud+Infra;Solving+Real-World+Problems" alt="Typing SVG" />
-  </a>
+
+# Kim Kangmin
+
+### Backend / AI Application Engineer
+
+**AI 기능을 실제 서비스의 API, 데이터베이스, 검색, 문서 생성 및 운영 흐름으로 연결합니다.**
+
+Python · FastAPI · PostgreSQL · pgvector · RAG · Next.js · AWS
+
+<br/>
+
+<a href="https://github.com/kkm02113">
+  <img src="https://img.shields.io/badge/GitHub-kkm02113-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
 </div>
 
-<div align="center">
-  <h3>👋 Hello, World!</h3>
-  <p>
-    사용자의 불편함을 기술로 해결하는 것을 좋아하는 <b>컴퓨터공학 전공 4학년</b>입니다.<br>
-    현재 <b>Python 기반의 AI 서비스</b>와 <b>AWS 클라우드 아키텍처</b>에 깊은 관심을 가지고 공부하고 있습니다.
-  </p>
-</div>
+---
 
-<br>
+## About Me
 
-### 🛠️ Tech Stack
+한림대학교에서 소프트웨어·빅데이터 분야를 전공하고 있으며,  
+**Backend Engineering과 AI Application Engineering**을 중심으로 개발하고 있습니다.
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **AI & Data** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+단순히 LLM API를 호출하는 기능 구현보다,
 
-<br>
+- AI 기능을 실제 서비스의 Backend / Database와 연결하고
+- RAG 기반 검색 및 문서 처리 파이프라인을 설계하고
+- 테스트와 예외 처리를 통해 서비스 안정성을 높이고
+- 실제 사용 가능한 형태로 배포하는 과정
 
-### 🚀 Key Projects
+에 관심을 두고 있습니다.
 
-#### 1️⃣ Smartlead Multi-Play Extension (Chrome Extension)
-> **학교 강의 수강 시스템(Smartlead)의 불편함(단일 재생 제한)을 개선하기 위해 개발**
-- **Tech:** JavaScript, Chrome Extension API
-- **Role:** 기획 및 전체 개발
-- **Feature:** 다중 비디오 동시 재생 기능 구현, UI 개선
-- 📂 [GitHub Repository Link](본인_레포지토리_링크)
+현재는 대학 행정업무를 위한 **RAG 기반 지식검색 및 문서 자동생성 시스템** 개발에 참여하고 있습니다.
 
-#### 2️⃣ EROM-CARE (AI Psychological Counseling Platform)
-> **대학생 및 청년층을 위한 AI 기반 심리 상담 플랫폼 (Capstone Design)**
-- **Tech:** Python, OpenAI API / Claude, React
-- **Role:** AI 모델 프롬프트 엔지니어링 및 백엔드 로직 설계
-- **Feature:** 사용자 감정 분석, 맞춤형 상담 챗봇 제공
-- 📂 [GitHub Repository Link](본인_레포지토리_링크)
+---
 
-#### 3️⃣ AWS-based Image Editor
-> **AWS 서비스를 활용한 웹 기반 숏폼/이미지 편집기 (Cloud Computing Course)**
-- **Tech:** AWS (EC2, S3, Lambda), Nginx, HTML/JS
-- **Description:** 서버리스 아키텍처(Lambda)를 활용한 이미지 처리 파이프라인 구축
+## Tech Stack
 
-<br>
+### Languages
 
-### 🏆 Activities & Awards
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-| Period | Event / Organization | Role / Content |
-| :---: | :--- | :--- |
-| 2025.01~ | **2025 Global AI Talent Challenge** | 참가자 (진행 중) |
-| 2025.01~ | **2025 K-Ship Hackathon** | 해양 경로 자동생성 및 군집 운항 AI 개발 |
-| 2025.01~ | **h-idea Project** | 입원 환자 약물 부작용 예측 시스템 (의료 데이터 분석) |
-| 2024 | **Hallym Univ. Capstone Design** | 'EROM-CARE' 프로젝트 진행 |
+### Backend & Database
 
-<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=transparent&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150" alt="languages graph" />
-</div>
+### AI & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+`RAG` · `Hybrid Retrieval` · `pgvector` · `LLM Application`
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+# Selected Projects
+
+## 01. UniDocs AI
+
+> **RAG 기반 대학 행정 지식검색 및 문서 자동생성 플랫폼**
+
+한림대학교 대학 행정업무를 대상으로  
+행정문서 검색, 근거 기반 질의응답, 문서 자동생성을 제공하는 프로젝트입니다.
+
+**Role**  
+Backend / DocsGen
+
+**Project Stack**
+
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Next.js` `LLM` `AWS`
+
+### What I Worked On
+
+- 대학 행정문서 자동생성 기능 **DocsGen** 개발
+- 행정양식 기반 문서 생성 및 출력 구조 구현
+- Draft → Review/Edit → Finalize 형태의 문서 생성 흐름 설계
+- HWPX 기반 문서의 표 / 셀 병합 / 필드 배치 등 양식 보존 개선
+- 생성 결과의 품질 검증 및 예외 처리
+- 자동화 테스트를 활용한 생성 기능 안정화
+
+### Project Architecture
+
+```text
+University Documents
+        ↓
+Parsing / Chunking
+        ↓
+Embedding
+        ↓
+Dense + Sparse Retrieval
+        ↓
+RRF / Hybrid Search
+        ↓
+LLM
+        ↓
+Grounded Answer / Document Generation
