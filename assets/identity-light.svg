@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="440" viewBox="0 0 1220 440" role="img" aria-labelledby="title desc">
+  <title id="title">Kangmin Kim — The Last Mile of AI</title>
+  <desc id="desc">An original field-notes-inspired visual for applied AI and backend engineering. A four-step system illustrates evidence, structuring, validation, and human review.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#9AB8AA" stroke-opacity="0.15" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="0" y="0" width="1220" height="440" rx="0" fill="#F3F6EF"  />
+  <rect x="0" y="0" width="1220" height="440" rx="0" fill="url(#grid)"  />
+  <path d="M 70 82 H 1150" stroke="#ABCABE" stroke-width="1.5"/>
+  <rect x="72" y="38" width="30" height="30" rx="5" fill="#007B54"  />
+  <path d="M 80 58 L 80 47 L 87 53 L 94 47 L 94 58" fill="none" stroke="#F3F6EF" stroke-width="2.4" stroke-linejoin="round"/>
+  <text x="115" y="59" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" font-weight="700" letter-spacing="2">KM / ENGINEERING NOTES</text>
+  <text x="885" y="59" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="650" letter-spacing="1.8">APPLIED AI   /   BACKEND</text>
+  <text x="72" y="171" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="53" font-weight="800" letter-spacing="0.3">I BUILD THE</text>
+  <text x="72" y="250" fill="#007B54" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="69" font-weight="800" letter-spacing="-1.8">LAST MILE</text>
+  <text x="72" y="324" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="69" font-weight="800" letter-spacing="-1.8">OF AI.</text>
+  <text x="74" y="373" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="500" >From model output to work people can verify.</text>
+  <path d="M 74 398 H 277" stroke="#007B54" stroke-width="2"/>
+  <circle cx="279" cy="398" r="3.5" fill="#007B54"/>
+  <text x="295" y="404" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" font-weight="650" letter-spacing="1.7">BUILD  /  TEST  /  PROVE</text>
+
+  <rect x="665" y="103" width="485" height="281" rx="18" fill="#FFFFFF" stroke="#ABCABE" stroke-width="1.5" />
+  <circle cx="689" cy="125" r="4" fill="#007B54"/>
+  <text x="704" y="131" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14" font-weight="750" letter-spacing="1.4">A RELIABLE AI WORKFLOW</text>
+  <text x="1099" y="131" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" font-weight="650" letter-spacing="1">/ 01</text>
+
+  <rect x="688" y="153" width="199" height="72" rx="10" fill="#E3F5E8" stroke="#ABCABE" stroke-width="1.5" />
+  <rect x="926" y="153" width="199" height="72" rx="10" fill="#FFFFFF" stroke="#ABCABE" stroke-width="1.5" />
+  <rect x="926" y="253" width="199" height="72" rx="10" fill="#E3F5E8" stroke="#ABCABE" stroke-width="1.5" />
+  <rect x="688" y="253" width="199" height="72" rx="10" fill="#FFFFFF" stroke="#ABCABE" stroke-width="1.5" />
+
+  <text x="705" y="179" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" font-weight="750" letter-spacing="0.8">01   EVIDENCE</text>
+  <text x="705" y="203" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="450" >ground the answer</text>
+  <text x="943" y="179" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" font-weight="750" letter-spacing="0.8">02   STRUCTURE</text>
+  <text x="943" y="203" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="450" >make it usable</text>
+  <text x="943" y="279" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" font-weight="750" letter-spacing="0.8">03   VALIDATE</text>
+  <text x="943" y="303" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="450" >check failure paths</text>
+  <text x="705" y="279" fill="#19372D" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" font-weight="750" letter-spacing="0.8">04   REVIEW</text>
+  <text x="705" y="303" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13" font-weight="450" >keep humans in control</text>
+
+  <path d="M 887 189 H 916" fill="none" stroke="#007B54" stroke-width="2.6" stroke-linecap="round"/><path d="M 913 184 L 920 189 L 913 194" fill="none" stroke="#007B54" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 1025 225 V 252" stroke="#007B54" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <path d="M 1020 244 L 1025 251 L 1030 244" stroke="#007B54" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 926 289 H 887" stroke="#007B54" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <path d="M 895 284 L 888 289 L 895 294" stroke="#007B54" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="691" cy="350" r="3.5" fill="#A45729"/>
+  <text x="704" y="355" fill="#A45729" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="12" font-weight="750" letter-spacing="0.7">NO EVIDENCE?  →  DO NOT INVENT.</text>
+
+  <text x="72" y="428" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" font-weight="500" letter-spacing="1">KANGMIN KIM  •  RAG  /  DOCUMENT SYSTEMS  /  MULTIMODAL AI</text>
+  <text x="1108" y="428" fill="#4D6E5F" font-family="Inter,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11" font-weight="600" letter-spacing="1">2026</text>
+</svg>
